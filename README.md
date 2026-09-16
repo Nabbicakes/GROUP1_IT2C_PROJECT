@@ -2,9 +2,7 @@ How to Use the System
 
 1. Run `Main.java` in IntelliJ IDEA.
 
-2. Enter your name when asked.
-
-3. Choose an option from the Main Menu:
+2. Choose an option from the Main Menu:
 
 1 – Sales Recording
 2 – Credit Ledger
