@@ -12,13 +12,6 @@ public class Main {
         System.out.println("   MICRO-RETAIL SALES & CREDIT LEDGER");
         System.out.println("========================================");
 
-        System.out.print("Enter your name: ");
-        String name = sc.nextLine();
-
-        System.out.println("\n========================================");
-        System.out.println("Welcome, " + name + "!");
-        System.out.println("========================================");
-
         while (true) {
 
             System.out.println("\n========================================");
@@ -50,7 +43,7 @@ public class Main {
                     return;
 
                 default:
-                    System.out.println("Invalid choice. Please try again.");
+                    System.out.println("\nInvalid choice. Please try again.");
             }
         }
     }
